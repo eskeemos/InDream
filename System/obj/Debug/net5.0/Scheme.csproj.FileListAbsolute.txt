@@ -1,0 +1,12 @@
+C:\Users\krzys\Postman\Desktop\InDream\System\bin\Debug\net5.0\Scheme.deps.json
+C:\Users\krzys\Postman\Desktop\InDream\System\bin\Debug\net5.0\Scheme.dll
+C:\Users\krzys\Postman\Desktop\InDream\System\bin\Debug\net5.0\ref\Scheme.dll
+C:\Users\krzys\Postman\Desktop\InDream\System\bin\Debug\net5.0\Scheme.pdb
+C:\Users\krzys\Postman\Desktop\InDream\System\obj\Debug\net5.0\Scheme.csproj.AssemblyReference.cache
+C:\Users\krzys\Postman\Desktop\InDream\System\obj\Debug\net5.0\Scheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\Postman\Desktop\InDream\System\obj\Debug\net5.0\Scheme.AssemblyInfoInputs.cache
+C:\Users\krzys\Postman\Desktop\InDream\System\obj\Debug\net5.0\Scheme.AssemblyInfo.cs
+C:\Users\krzys\Postman\Desktop\InDream\System\obj\Debug\net5.0\Scheme.csproj.CoreCompileInputs.cache
+C:\Users\krzys\Postman\Desktop\InDream\System\obj\Debug\net5.0\Scheme.dll
+C:\Users\krzys\Postman\Desktop\InDream\System\obj\Debug\net5.0\ref\Scheme.dll
+C:\Users\krzys\Postman\Desktop\InDream\System\obj\Debug\net5.0\Scheme.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InDream", "InDream\InDream.csproj", "{6463CB76-723C-4037-8C17-D922C112626A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scheme", "System\Scheme.csproj", "{7EE52FAD-EE53-4943-A336-68FA5A7B5CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6463CB76-723C-4037-8C17-D922C112626A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6463CB76-723C-4037-8C17-D922C112626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6463CB76-723C-4037-8C17-D922C112626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6463CB76-723C-4037-8C17-D922C112626A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE52FAD-EE53-4943-A336-68FA5A7B5CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE52FAD-EE53-4943-A336-68FA5A7B5CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE52FAD-EE53-4943-A336-68FA5A7B5CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE52FAD-EE53-4943-A336-68FA5A7B5CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D99EAC7-B652-48E1-8B53-5484835BA4AE}
+	EndGlobalSection
+EndGlobal

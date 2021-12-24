@@ -1,0 +1,29 @@
+﻿{
+  "name": "InDream",
+  "exchanges": [
+    {
+      "name": "Binance",
+      "apikey": "sdruDP3VOOXbjqPdCbIqQKMrEHC0vHCNK3P2Dn6UFvlMBckpFxaXJuTiumz5HTre",
+      "apisecret": "vpN3oE1upGPH6Sq5fanfzuMlY7ryINP6cxpdtyuXTLrLCYUg3W42GG1S6Hy1Q7Or"
+    }
+  ],
+  "main": {
+    "strategyId": 1,
+    "interval": 1,
+    "test": true,
+    "strategies": [
+      {
+        "id": 1,
+        "symbol": "ETHBTC",
+        "storagepath": "c:\\indream\\",
+        "drop": 10,
+        "rise": 5,
+        "average": 5,
+        "pricetype": 0,
+        "stoploss": 25,
+        "funds": 99,
+        "selltype": 0
+      }
+    ]
+  }
+}
